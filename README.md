@@ -21,13 +21,13 @@
 
 ### <strong><i>Como clonar o projeto:</i></strong>
 
-<p> git clone https://github.com/AlanFaraj83/ApiTemperatura.git</p>
+<p> git clone https://github.com/AlanFaraj1983/Projeto-Temperatura.git</p>
 
 </br>
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo https://github.com/AlanFaraj83/ApiTemperatura/tree/main?tab=MIT-1-ov-file para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo https://github.com/AlanFaraj1983/Projeto-Temperatura.git/tree/main?tab=MIT-1-ov-file para mais detalhes.
 
 
 <p align="center">
